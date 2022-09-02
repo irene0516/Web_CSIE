@@ -4,6 +4,7 @@
 * PHP
 * HTML
 * CSS
+* MySQL
 
 ## 網頁設計及功能
 <img src="https://github.com/irene0516/Web_CSIE/blob/main/img_folder/2.JPG" width = "500" alt="first%20page" align=center /> 
